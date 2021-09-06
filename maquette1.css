@@ -1,0 +1,98 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    
+}
+.bloc1{
+    width: 400px;
+    color: white; 
+    background-color:rgb(139, 8, 8);
+    border: 1px;
+    font-size: 15px;
+    padding: 50px;
+
+
+}
+img{
+    padding-bottom: 50px;
+}
+.grandbloc{
+    display: flex;
+    height: 100%;
+}
+    
+
+
+nav ul{
+    display: flex;
+    color: #000;
+}
+nav ul li{
+    padding: 20px;
+}
+ol, ul{
+    list-style: none;
+}
+.bloc2{
+    width: 100%;  
+    background-image:url(tableau-design-piments.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.bloc22{
+    width: 600px; 
+    background-color:rgb(139, 8, 8);
+    color:white;
+    float:right;
+    margin: 480px 0 0 0;
+
+    
+    
+}
+.porto{
+    border: 1px #000 solid;
+    background-color: #fff;
+    width: 150px;
+    padding:  10px;
+}
+.porto a{
+    text-decoration:none ;
+    color: rgb(114, 7, 7);
+    padding: 20px;
+    text-align: center;
+}
+.bloc2 nav{
+    background-color: #fff;
+    opacity:0.6;
+    margin-top: -20px;
+}
+.bloc2 nav ul{
+    justify-content: center;
+}
+.bloc2 nav ul li{
+    border-bottom: 1px rgb(114, 7, 7) solid;
+
+}
+ h3, .bloc22 p{
+    padding:0 10px;
+    font-size: 20px;
+
+}
+.bloc2 nav ul  a {
+    font-size: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
